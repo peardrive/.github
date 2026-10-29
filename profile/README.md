@@ -6,7 +6,6 @@
 
 [![Open Source](https://img.shields.io/badge/open%20source-%E2%9D%A4-2ea44f?style=flat-square)](https://github.com/peardrive)
 [![Non-Commercial](https://img.shields.io/badge/non--commercial-no%20paywall-8bc34a?style=flat-square)](https://peardrive.com)
-[![Powered by PearCore](https://img.shields.io/badge/powered%20by-PearCore-1f6feb?style=flat-square)](https://github.com/peardrive)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-ff69b4?style=flat-square)](https://github.com/peardrive)
 
 </div>
